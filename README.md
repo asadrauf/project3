@@ -18,7 +18,7 @@
 
 We created a secure role-based healthcare application. Based on your personal role and needs, you can log in as a doctor or as a patients.  Doctors can see stats related to their patients, assign new patients, and perform a number of other tasks related to their patients.  Patients can set up appointments, see information related to thier visits, and connect with their doctors in many other ways, 
 
- * This full-stack application is deployed on Heroku : https://HealthcarePro.herokuapp.com/
+ * This full-stack application is deployed on Heroku : https://project3-healthcarepro.herokuapp.com/
 
 ## Installation
 
